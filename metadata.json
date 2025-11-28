@@ -1,0 +1,5 @@
+{
+  "name": "Kugou to Spotify Converter",
+  "description": "A tool to extract song lists from Kugou Music text/HTML and format them for TuneMyMusic import.",
+  "requestFramePermissions": []
+}
